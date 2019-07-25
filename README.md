@@ -1,6 +1,7 @@
-### insight-api
+### bitcore-p2p
 ---
-https://github.com/bitpay/insight-api
+https://github.com/bitpay/bitcore-p2p
+
 
 ```
 ```
